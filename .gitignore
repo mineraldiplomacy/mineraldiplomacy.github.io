@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+r_libs/
+
+# Source data and working files — kept in the private research repo, not published
+*.rds
+*.xlsx
+agent.md
+mining_projects/
