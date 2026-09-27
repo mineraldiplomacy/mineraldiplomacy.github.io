@@ -1,0 +1,7 @@
+# Canada's Critical Mineral Diplomacy
+# Everything here is intended to be public and indexable.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mineraldiplomacy.github.io/sitemap.xml
